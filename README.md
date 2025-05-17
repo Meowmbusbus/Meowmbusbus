@@ -8,7 +8,3 @@
 - 📫 How to reach us **meowmbus@icloud.com**
 
 - ⚡ Fun fact **It's fun creating!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
