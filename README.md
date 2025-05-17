@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meowmbusbus&label=Profile%20views&color=0e75b6&style=flat" alt="meowmbusbus" /> </p>
 
-- 🔭 I’m currently working on **Meowmbus**
+- 🔭 We're currently working on **Meowmbus**
 
-- 📫 How to reach me **meowmbus@icloud.com**
+- 📫 How to reach us **meowmbus@icloud.com**
 
 - ⚡ Fun fact **It's fun creating!**
 
