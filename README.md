@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, We are 喵布世Meowmbus</h1>
+<h3 align="center">A group of friend who are passionate about creating an all-in-one travel app🐱‍🐉!</h3>
 
-<!--
-**Meowmbusbus/Meowmbusbus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meowmbusbus&label=Profile%20views&color=0e75b6&style=flat" alt="meowmbusbus" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Meowmbus**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **meowmbus@icloud.com**
+
+- ⚡ Fun fact **It's fun creating!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
